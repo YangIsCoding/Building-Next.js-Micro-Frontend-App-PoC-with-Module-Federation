@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Building-Next.js-Micro-Frontend-App-PoC-with-Module-Federation
-=======
+
 # Building Next.js Micro Frontend App PoC with Module Federation
 ## 1.	Introduction
 Module Federation is a new feature introduced in Webpack 5, designed to address module sharing and dynamic loading in micro frontend architectures. It allows multiple independent JavaScript applications to share code and modules without needing to recompile the entire application.
@@ -623,4 +621,3 @@ export default Page;
 
 ![alt text](image-5.png)
 ![alt text](image-6.png)
->>>>>>> f1dff51 (Initial commit)
